@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "collections": "^5.1.2",
+    "csv": "^3.1.0"
+  }
+}
